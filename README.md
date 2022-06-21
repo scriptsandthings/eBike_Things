@@ -1,1 +1,1 @@
-Stuff related to ebikes and ebike building/upgrading/modifications
+Things related to eBikes and eBike building/upgrading/modifications
