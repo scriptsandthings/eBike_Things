@@ -3,12 +3,15 @@ navbar_entries:
   - title: Home
     url: https://gregknackstedt.com
 
-- title: About eBike Things
-    url: about
+#- title: About eBike Things
+#    url: about
     
   - title: My eBike Blog
     url: blog
 
+- title: About eBike Things
+    url: about
+    
 project_entries:
   - title: TotGuard
     url: https://github.com/scriptsandthings/scriptsandthings_Jamf_JSON_Schemas/tree/main/Schemas/Apple
