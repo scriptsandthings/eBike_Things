@@ -14,7 +14,7 @@ navbar_entries:
     
 project_entries:
   - title: TotGuard
-    url: https://github.com/scriptsandthings/scriptsandthings_Jamf_JSON_Schemas/tree/main/Schemas/Apple
+    url: https://github.com/scriptsandthings/eBike_Things/TotGuard/
     desc: My first eBike. I should have done more research before purchasing and not bought a no-name brand off of Amazon
     highlight: WIP
 
