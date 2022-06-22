@@ -30,7 +30,7 @@ theme_config:
   home:
     title_projects: eBikes
     title_misc_list: Details
-    title_blog: My eBike Blog
+    title_blog: My Recent eBike Blog Posts
     title_old_projects: Old Projects
 
 soopr:
