@@ -1,9 +1,10 @@
 navbar_entries:
-#  - title: About
-#    url: About
 
   - title: Home
     url: https://gregknackstedt.com
+
+- title: About eBike Things
+    url: about
     
   - title: My eBike Blog
     url: blog
