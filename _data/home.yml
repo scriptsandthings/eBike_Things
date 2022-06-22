@@ -2,11 +2,11 @@ navbar_entries:
 #  - title: About
 #    url: About
 
-#  - title: blog
-#    url: Blog
-
   - title: Home
     url: https://gregknackstedt.com
+    
+  - title: My eBike Blog
+    url: blog
 
 project_entries:
   - title: TotGuard
