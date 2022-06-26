@@ -2,6 +2,7 @@
 layout: post
 author: Greg Knackstedt
 ---
+A majority of the information on this page has been gathered from [Gohio Commute](https://gohiocommute.com/) and the [MORPC (Mid Ohio Regional Planning Commmission)](https://morpc.gohio.com/regional-programs/emergency-ride-home/)
 
 #### If you ride a bicycle or use another non-automotive form of transportation to commute to/from work, don't get stuck at the office after your shift is over due to weather or other circumstances outside of your control! **You may be eligible for a free ride home!** (Limit 4 uses per individual, per calendar year)
 
@@ -80,3 +81,6 @@ It’s a foolproof benefit meant to ease your mind if you rideshare, bike, or bu
   2. You will receive a phone call from them to complete the reservation of your ride. 
   3. **It is very important (it not just important, it is required) that you have some form of photo identification to present to the driver.** This is to help ensure both your safety and that of your driver. **If you do not have a form of identification to present your driver, the driver will NOT pick you up/or allow you in their vehicle and the driver will cancel your ride request.**
   4. Enjoy your safe lift home!
+
+## MORPC Membership Map
+![image](https://user-images.githubusercontent.com/52809959/175830806-9705b1e8-d531-47a2-9f1b-bdf8a9377a80.png)
