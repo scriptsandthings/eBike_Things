@@ -1,6 +1,6 @@
 # TotGuard 26in 350w Aamazon no-name ebike
 
-#### [TotGuard 26in 350w Aamazon no-name ebike linked here](https://www.amazon.com/Electric-TotGuard-Suspension-Removable-Professional/dp/B09LMNBMWR)
+#### [TotGuard 26in 350w Amazon no-name ebike linked here](https://www.amazon.com/Electric-TotGuard-Suspension-Removable-Professional/dp/B09LMNBMWR)
 
 ## The Good
 
