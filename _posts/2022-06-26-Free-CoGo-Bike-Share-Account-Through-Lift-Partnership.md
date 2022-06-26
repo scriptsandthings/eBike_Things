@@ -5,7 +5,7 @@ author: Greg Knackstedt
 
 ### In partnership with [Lift](https://www.lyft.com/bikes/columbus-oh) and the [Columbus Recreation and Parks Department](https://www.columbus.gov/recreationandparks/programs/CoGo-Bike-Share-Program/), [CoGo](https://cogobikeshare.com/) and '['Yay Bikes' Columbus](https://www.yaybikes.com/) are are excited to **provide Central Ohio residents with a _COMPLETELY FREE_  base CoGo annual membership (an $85 value) for 2022.** ![image](https://user-images.githubusercontent.com/52809959/175823621-01d58c01-649a-4b86-b6fd-61c572943575.png)
 
-# Annual CoG0 base memberships include:
+# Annual CoGo base memberships include:
 
 - FREE Unlocks all year long
 - Unlimited 45 minute trips on classic bikes
