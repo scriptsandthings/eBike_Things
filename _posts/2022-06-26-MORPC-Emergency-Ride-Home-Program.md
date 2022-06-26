@@ -2,7 +2,10 @@
 layout: post
 author: Greg Knackstedt
 ---
+
 A majority of the information on this page has been gathered from [Gohio Commute](https://gohiocommute.com/) and the [MORPC (Mid Ohio Regional Planning Commmission)](https://morpc.gohio.com/regional-programs/emergency-ride-home/)
+
+___
 
 #### If you ride a bicycle or use another non-automotive form of transportation to commute to/from work, don't get stuck at the office after your shift is over due to weather or other circumstances outside of your control! **You may be eligible for a free ride home!** (Limit 4 uses per individual, per calendar year)
 
@@ -18,8 +21,11 @@ A majority of the information on this page has been gathered from [Gohio Commute
 |                                                                                                                                                                              | b. Your full Home Address                                                                                              |
 |                                                                                                                                                                              | c. Your Primary Contact Number (our transportation provider will contact you at this number to arrange transportation) |
 
+___
 
 ## Already signed up and need to request an emergency ride home now? [Go to the Gohio Commute Rewards page to begin the process.](https://gohiocommute.com/#/#!m=account.login)
+
+___
 
 # Coronavirus Update
 
@@ -38,6 +44,8 @@ A majority of the information on this page has been gathered from [Gohio Commute
 
 #### Be safe and [follow the recommendations set forth by the Center for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/index.html): at https://www.cdc.gov/coronavirus/2019-ncov/index.html
 
+___
+
 # What is the Emergency Ride Home (ERH) program?
 
 ### The MORPC Emergency Ride Home (ERH) program is a free service that assures commuters using alternate forms of transportation to and from work that they won’t be stranded at work in the case of an emergency, illness, or unexpected overtime. 
@@ -46,6 +54,8 @@ It’s a foolproof benefit meant to ease your mind if you rideshare, bike, or bu
 **No payment is required and the tip is covered! You will receive four (4) free rides each calendar year as long as you remain eligible.**
 
 ### If you have any questions about ERH or Gohio Commute, please contact us at [gohio@morpc.org](mailto:gohio@morpc.org) or [1-888-742-7433](tel:18887427433).
+
+___
 
 # Are you interested in joining the ERH program? Follow these instructions:
 
@@ -61,9 +71,11 @@ It’s a foolproof benefit meant to ease your mind if you rideshare, bike, or bu
 
 ## **Don’t have a Gohio Commute account yet and want to join?** [Go here to register!](https://gohiocommute.com/#/pages/about-morpc#!m=account.register)
 1. Make sure you check the box which reads **'I would like to participate in the Guaranteed/Emergency Ride Home program'** on the last step of registration.
-2. Also, under My Typical Commute on your Public Profile, **ensure that you've made a selection for the question "My usual commute mode is:"**.
+2. Also, under My Typical Commute on your Public Profile, **ensure that you've made a selection for the question "My usual commute mode is:"**
 ### Please allow up to 72 hours for the approval process to complete. 
 #### You will receive an email from [gohio@morpc.org](mailto:gohio@morpc.org) with further instructions.
+
+___
 
 # How To Request an Emergency Ride Home (Using your ERH benefits)
 
@@ -82,5 +94,7 @@ It’s a foolproof benefit meant to ease your mind if you rideshare, bike, or bu
   3. **It is very important (it not just important, it is required) that you have some form of photo identification to present to the driver.** This is to help ensure both your safety and that of your driver. **If you do not have a form of identification to present your driver, the driver will NOT pick you up/or allow you in their vehicle and the driver will cancel your ride request.**
   4. Enjoy your safe lift home!
 
-## MORPC Membership Map
+___
+
+# MORPC Membership Map
 ![image](https://user-images.githubusercontent.com/52809959/175830806-9705b1e8-d531-47a2-9f1b-bdf8a9377a80.png)
