@@ -16,7 +16,7 @@ Go get some real prescription strength antibiotic ointment and maybe some antibi
 Better to go get the scrapes checked and cleaned by professionals then trying to take care of it yourself, failing at it, and letting the infection get bad enough to cause complications.
 Just don't risk it to try to save the copay.
 
-Also, [Amazon](https://amazon.com) sells self adhering wound wrap + non-stick/non-absorbent pads WAYYYYY cheaper than Walgreens, CVS, or Kroger. 
+Also, [Amazon](https://amazon.com) sells [self adhering wound wrap (40 count of 3in wide x 5yd long rolls)](https://smile.amazon.com/gp/product/B09HC58XSK/) + [Curaid 100x non-adherent pads](https://smile.amazon.com/gp/product/B005EB9SFI/) WAYYYYY cheaper than Walgreens, CVS, or Kroger. 
 **Do yourself a favor and keep some of the self adhering wrap + non-stick/non-absorbent pads on hand for when you inevitably crash your bike and need to change the dressings + apply antibiotics on the schedule either urgent care, your doctor, or the emergency room gave you.**
 
 ___
