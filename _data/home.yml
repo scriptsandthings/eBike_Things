@@ -1,15 +1,9 @@
 navbar_entries:
-
   - title: Home
     url: https://gregknackstedt.com
-
-#- title: About eBike Things
-#    url: about
-    
   - title: My eBike Blog
     url: blog
-
-- title: About eBike Things
+  - title: About eBike Things
     url: about
     
 project_entries:
@@ -21,10 +15,8 @@ project_entries:
 footer_entries:
   - title: Home
     url: https://gregknackstedt.com
-
   - title: My GitHub
     url: https://github.com/scriptsandthings
-
   - title: My LinkedIn
     url: https://www.linkedin.com/in/gregknac/
     
