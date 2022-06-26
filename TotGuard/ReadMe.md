@@ -1,6 +1,10 @@
 # TotGuard 26in 350w Aamazon no-name ebike
 
+___
+
 #### [TotGuard 26in 350w Amazon no-name ebike linked here](https://www.amazon.com/Electric-TotGuard-Suspension-Removable-Professional/dp/B09LMNBMWR)
+
+___
 
 ## The Good
 
@@ -22,3 +26,5 @@
 - No name controller. Can only find minimaal company information, only in chinese on sites without SSL certificates. Wiring scheme for posted anywhere controller public online.
 - No name motor. Can only find minimal company information online, only in chinese on sites without SSL certificates. Wireing schema or actual specs of hub motor not posted anywhere public online.
 - Cant unlimit speed above 19.8mph. No software hacks possible, can't move the speed sensor, would require a full controller + motor + lcd upgrade to remove current speed limit, making bike just an expensive frame at that point (rather spend more on a nicer cargo bike or long tail frame if going that route)
+
+___
