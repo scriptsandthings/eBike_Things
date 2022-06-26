@@ -3,14 +3,11 @@ layout: post
 author: Greg Knackstedt
 ---
 
-# If you ride a bike or commute to/from work using another form of transportion, don't get stuck in the office after your shift is over due to weather or other circumstances outside of your control!
+#### If you ride a bicycle or use another non-automotive form of transportation to commute to/from work, don't get stuck at the office after your shift is over due to weather or other circumstances outside of your control! **You may be eligible for a free ride home!** (Limit 4 uses per individual, per calendar year)
 
-## **Be sure to sign up for the _COMPLETELY FREE_ MORPC/Gohio Emergency Ride Home program!!!**
+### **Be sure to sign up for the _COMPLETELY FREE_ [MORPC/Gohio Emergency Ride Home program!!!](https://morpc.gohio.com/regional-programs/emergency-ride-home/)**
 
-https://morpc.gohio.com/regional-programs/emergency-ride-home/
-
-
-| MORPG/Gohio Emergency Ride Home Program Policies                                                                                                                             |                                                                                                                        |
+| [MORPG/Gohio Emergency Ride Home Program](https://morpc.gohio.com/regional-programs/emergency-ride-home/) Policies                                                                                                 |                                                                                                                        |
 |------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------|
 | 1. You are only allotted four (4) points for this program per calendar year.                                                                                                 |                                                                                                                        |
 | 2. This program is only available for transportation from your address of employment to your home address or a Park & Ride location. No exceptions are considered.           |                                                                                                                        |
@@ -21,11 +18,11 @@ https://morpc.gohio.com/regional-programs/emergency-ride-home/
 |                                                                                                                                                                              | c. Your Primary Contact Number (our transportation provider will contact you at this number to arrange transportation) |
 
 
-##Already signed up and need to request an emergency ride home now? [Go to the Gohio Commute Rewards page to begin the process.](https://gohiocommute.com/#/#!m=account.login)
+## Already signed up and need to request an emergency ride home now? [Go to the Gohio Commute Rewards page to begin the process.](https://gohiocommute.com/#/#!m=account.login)
 
-#Coronavirus Update
+# Coronavirus Update
 
-##Our service provider, Yellow Cab, will no longer be operating 24 hours a day.
+## Our service provider, Yellow Cab, will no longer be operating 24 hours a day.
 
 ### Yellow Cab’s hours of operation are 6 a.m. to 11 p.m.
 #### They make every effort to provide services up to this point. 
@@ -40,25 +37,34 @@ https://morpc.gohio.com/regional-programs/emergency-ride-home/
 
 #### Be safe and [follow the recommendations set forth by the Center for Disease Control](https://www.cdc.gov/coronavirus/2019-ncov/index.html): at https://www.cdc.gov/coronavirus/2019-ncov/index.html
 
-# What is Emergency Ride Home?
+# What is the Emergency Ride Home (ERH) program?
 
 ### The MORPC Emergency Ride Home (ERH) program is a free service that assures commuters using alternate forms of transportation to and from work that they won’t be stranded at work in the case of an emergency, illness, or unexpected overtime. 
-It’s a foolproof benefit meant to ease your mind if you rideshare, bike, or bus to work and need to get home quickly.
+It’s a foolproof benefit meant to ease your mind if you rideshare, bike, or bus to work and need to get home quickly. **The ERH program is a free service that assures commuters who commute to work by an eligible sustainable mode they won’t be stranded at work in the case of emergency.** Interested users need to sign up for the program and be approved before the benefit can be used. Once approved, you will be notified by email. Please allow up to 72 hours for the approval process. After being approved, you will be permitted to request an emergency ride home from our provider through the Gohio Commute site.
+
+**No payment is required and the tip is covered! You will receive four (4) free rides each calendar year as long as you remain eligible.**
+
+### If you have any questions about ERH or Gohio Commute, please contact us at [gohio@morpc.org](mailto:gohio@morpc.org) or [1-888-742-7433](tel:18887427433).
 
 # Are you interested in joining the ERH program? Follow these instructions:
 
 ## Do you already have a Gohio Commute account?
-  1. [Log in here,](https://gohiocommute.com/#/pages/about-morpc#!m=account.login) then go to your profile. Check the box which reads I would like to participate in the Guaranteed/Emergency Ride Home program
+  1. [Log in here,](https://gohiocommute.com/#/pages/about-morpc#!m=account.login) then go to your profile. **Check the box which reads I would like to participate in the Guaranteed/Emergency Ride Home program**
   2. Review your home and work address, and your phone number to ensure it is correct.
   3. Save your profile.
   4. Click on the Public Profile link found on the left-side of your profile.
-  5. Under My Typical Commute, ensure that the selection for My usual commute mode is is completed. Note that in order to use the benefit, you must have used some sort of sustainable transportation to your workplace, such as carpool, transit, bike/walk, or Gohio Commute Vanpool.
-  6. Save your profile.
+  5. **Make sure you check the box which reads 'I would like to participate in the Guaranteed/Emergency Ride Home program'** on the last step of registration.
+  6. **Under My Typical Commute, ensure that a selection for 'My usual commute mode is is completed:" has been enteered.**
+  6a. **Note that in order to use the benefit, you must have used some sort of sustainable transportation to your workplace, such as carpool, transit, bike/walk, or Gohio Commute Vanpool.**
+  7. Save your profile.
 
-## **Don’t have an account and want to join?** [Go here to register.](https://gohiocommute.com/#/pages/about-morpc) **Make sure you check the box which reads I would like to participate in the Guaranteed/Emergency Ride Home program on the last step of registration. Also, under My Typical Commute on your Public Profile, ensure that the selection for My usual commute mode is is completed.**
+## **Don’t have a Gohio Commute account yet and want to join?** [Go here to register!](https://gohiocommute.com/#/pages/about-morpc#!m=account.register)
+1. Make sure you check the box which reads **'I would like to participate in the Guaranteed/Emergency Ride Home program'** on the last step of registration.
+2. Also, under My Typical Commute on your Public Profile, **ensure that you've made a selection for the question "My usual commute mode is:"**.
+### Please allow up to 72 hours for the approval process to complete. 
+#### You will receive an email from [gohio@morpc.org](mailto:gohio@morpc.org) with further instructions.
 
-Please allow up to 72 hours for the approval process to complete. You will receive an email from [gohio@morpc.org](mailto:gohio@morpc.org) with further instructions.
-How To Request an Emergency Ride Home
+# How To Request an Emergency Ride Home (Using your ERH benefits)
 
 ## Have you been approved to use the ERH benefit? Follow these directions to request your ride:
 
@@ -70,6 +76,7 @@ How To Request an Emergency Ride Home
   6. In the new window, enter your information as needed in each field
 
 ### After the form is submitted:
-  - Check your email inbox for a copy of your request. **The same request is sent to our transportation provider.**
-  - You will receive a phone call from them to complete the reservation of your ride. 
-  - **It is very important that you have some form of photo identification to present to the driver.**
+  1. Check your email inbox for a copy of your request. **The same request is sent to our transportation provider.**
+  2. You will receive a phone call from them to complete the reservation of your ride. 
+  3. **It is very important (it not just important, it is required) that you have some form of photo identification to present to the driver.** This is to help ensure both your safety and that of your driver. **If you do not have a form of identification to present your driver, the driver will NOT pick you up/or allow you in their vehicle and the driver will cancel your ride request.**
+  4. Enjoy your safe lift home!
