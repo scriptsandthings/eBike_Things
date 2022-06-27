@@ -6,6 +6,8 @@ ___
 
 ___
 
+## I did a minor taredown of the TotGuard and [snagged pics of the eBike's controller, battery housing, wiring harness, battery, and some other stuff and posted that here](https://gregknackstedt.com/eBike_Things/TotGuard/Taredown/)
+
 ## The Good
 
 - Decent first bike.
