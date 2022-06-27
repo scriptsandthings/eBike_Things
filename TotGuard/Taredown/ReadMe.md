@@ -2,6 +2,11 @@
 
 ## Controller, Controller/Battery Wiring, Battery, LCD, and Hub Motor Pics
 
+### LCD
+ - **Model:** LCD-G51
+ - **Brand:** I *think* it's a Kunray, but a few others sell LCD-G51s identical to this.
+ 
+![LCD Screen - LCD-G51](https://user-images.githubusercontent.com/52809959/175842101-da41e394-5924-4f5f-87f7-773e048bf2d0.jpeg)
 
 ### Controller
 
@@ -14,6 +19,7 @@
 - **Ex-factory date:** 02-12-2021
 - **Dongguan jig hui Controller Co;LTD** 26inches
 
+
 ![Dongguan jig hui Controller Co LTD - Brushless DC Moter Controller - Product number JH3AZ2612DZQR - 350w - DC36V](https://user-images.githubusercontent.com/52809959/175840646-c679bad2-a073-4fde-8167-a248d5321969.jpeg)
 
 ![Dongguan jing hui Controller side 1 1](https://user-images.githubusercontent.com/52809959/175840651-78248d96-e6ed-4af1-b53a-2defabf58d8f.jpeg)
@@ -23,6 +29,8 @@
 ![Dongguan jing hui Controller side 1](https://user-images.githubusercontent.com/52809959/175840660-e35cbb79-d02e-4233-9e4d-7b72020c3184.jpeg)
 
 ![Dongguan jing hui Controller side 2 1](https://user-images.githubusercontent.com/52809959/175840665-9522a4bb-1233-43e9-b11b-3f9b9b74d8d4.jpeg)
+
+*Seems like the board is glued inside the enclosure along the left side/used as a heatsink. I don't think I can get the board out of this one, it won't budge.*
 
 ![Dongguan jing hui Controller side 2 2](https://user-images.githubusercontent.com/52809959/175840667-f1c7426c-8617-4d5d-9aec-8ec14118d5fa.jpeg)
 
@@ -45,6 +53,14 @@
 ![Controller Wires 5](https://user-images.githubusercontent.com/52809959/175840807-5dc367f6-f0b4-4de0-a8d9-6d0f31e0d8df.jpeg)
 
 ![Controller Wires All](https://user-images.githubusercontent.com/52809959/175840808-227b6790-4c21-47bc-8205-44dbd7425e6d.jpeg)
+
+
+### Hub Motor
+
+Motor *might* be made by Puyuan Motor Co, [so it could be listed on this page](https://www.puyuanmotor.com/Rear-Motor-pl3227512.html). 
+Not much info is given beyond basic motor specs though.
+
+![Possibly Puyuan Motor Hub Motor](https://user-images.githubusercontent.com/52809959/175841489-74b687f0-520a-41e3-86ee-140dc0e75264.jpeg)
 
 
 ### Battery
@@ -75,22 +91,26 @@ To ensure battery life and avoid insuling the environment, please pay attention 
 - **Address:** No.33 Xiang Rong Road, Dalang town, Dongguan Clty
 
 ![WARTEAMNEWENERGY - Model-WT0252 - 36v - 10 4Ah-374 4Wh - Right Side](https://user-images.githubusercontent.com/52809959/175840842-91789430-6876-4c1e-a97d-0b19a2045591.png)
-![WARTEAMNEWENERGY - Model-WT0252 - 36v - 10 4Ah-374 4Wh - Probably Serial Number](https://user-images.githubusercontent.com/52809959/175840841-d690b15b-61c4-4eda-a13b-2e482424eaee.jpeg)![WARTEAMNEWENERGY - Model-WT0252 - 36v - 10 4Ah-374 4Wh - Sticker and Connector 2](https://user-images.githubusercontent.com/52809959/175840846-4a272915-5609-4c4d-b64f-2f790bfc2a30.jpeg)
+![WARTEAMNEWENERGY - Model-WT0252 - 36v - 10 4Ah-374 4Wh - Probably Serial Number](https://user-images.githubusercontent.com/52809959/175840841-d690b15b-61c4-4eda-a13b-2e482424eaee.jpeg)
+
+![WARTEAMNEWENERGY - Model-WT0252 - 36v - 10 4Ah-374 4Wh - Sticker and Connector 2](https://user-images.githubusercontent.com/52809959/175840846-4a272915-5609-4c4d-b64f-2f790bfc2a30.jpeg)
+
 ![WARTEAMNEWENERGY - Model-WT0252 - 36v - 10 4Ah-374 4Wh - Sticker and Connector](https://user-images.githubusercontent.com/52809959/175840848-0ac769ad-8647-4fdb-80d0-d53bbbac070b.jpeg)
+
 ![WARTEAMNEWENERGY - Model-WT0252 - 36v - 10 4Ah-374 4Wh - Sticker Removed - No Hidden Sticker](https://user-images.githubusercontent.com/52809959/175840852-845d164f-1e96-4ba1-b476-8f783e3adf6e.jpeg)
+
 ![WARTEAMNEWENERGY - Model-WT0252 - 36v - 10 4Ah-374 4Wh](https://user-images.githubusercontent.com/52809959/175840855-ccb81c80-e89e-4a17-944c-94d69b2ebb59.jpeg)
+
 ![WARTEAMNEWENERGY - Model-WT0252 - 36v - 10 4Ah-374 4Wh - Battery mount 18650 for scale 2](https://user-images.githubusercontent.com/52809959/175840829-88d994da-3030-4aa4-b502-a23ec44b734f.jpeg)
+
 ![WARTEAMNEWENERGY - Model-WT0252 - 36v - 10 4Ah-374 4Wh - Battery mount 18650 for scale 3](https://user-images.githubusercontent.com/52809959/175840831-9ba4f159-5a04-47e3-9858-52e2e9f43e67.jpeg)
+
 ![WARTEAMNEWENERGY - Model-WT0252 - 36v - 10 4Ah-374 4Wh - Battery mount 18650 for scale](https://user-images.githubusercontent.com/52809959/175840832-c7b4349e-abb0-4226-8d1b-784c31535c5d.jpeg)
+
 ![WARTEAMNEWENERGY - Model-WT0252 - 36v - 10 4Ah-374 4Wh - Battery Warm Tips](https://user-images.githubusercontent.com/52809959/175840833-f0df84db-f816-419a-b18f-8b64c4084c0e.jpeg)
+
 ![WARTEAMNEWENERGY - Model-WT0252 - 36v - 10 4Ah-374 4Wh - Charge Port](https://user-images.githubusercontent.com/52809959/175840836-7c25cdab-3a04-4b08-b441-c4bf8a76788b.jpeg)
+
 ![WARTEAMNEWENERGY - Model-WT0252 - 36v - 10 4Ah-374 4Wh - Left Side](https://user-images.githubusercontent.com/52809959/175840839-3bd037f3-86cb-44ca-b1df-aebe78039557.jpeg)
+
 ![XT60 Battery Connector](https://user-images.githubusercontent.com/52809959/175841481-dd296753-aacf-46a6-9278-5bfe5cda3666.jpeg)
-
-
-### Hub Motor
-
-Motor *might* be made by Puyuan Motor Co, [so it could be listed on this page](https://www.puyuanmotor.com/Rear-Motor-pl3227512.html). 
-Not much info is given beyond basic motor specs though.
-
-![Possibly Puyuan Motor Hub Motor](https://user-images.githubusercontent.com/52809959/175841489-74b687f0-520a-41e3-86ee-140dc0e75264.jpeg)
