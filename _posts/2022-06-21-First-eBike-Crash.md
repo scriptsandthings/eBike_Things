@@ -47,4 +47,4 @@ ___
 
 #### I should have just stayed in the street.
 
-<video src=https://user-images.githubusercontent.com/52809959/175843883-d605ddae-8434-486e-bf5b-ddcd00c25037.mov></video>
+<video src="https://user-images.githubusercontent.com/52809959/175843883-d605ddae-8434-486e-bf5b-ddcd00c25037.mov" data-canonical-src="https://user-images.githubusercontent.com/52809959/175843883-d605ddae-8434-486e-bf5b-ddcd00c25037.mov" controls="controls" muted="muted" class="d-block rounded-bottom-2 border-top width-fit" style="max-height:640px;"></video>
