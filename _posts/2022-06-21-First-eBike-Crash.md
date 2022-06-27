@@ -43,7 +43,8 @@ ___
 ___ 
 # Bonus: 
 
-## Helmet cam video of me being a dumbass (and ignoring crosswalk signals, so double dumbass on me). 
+## Helmet cam video of me being a dumbass 
+#### (and ignoring crosswalk signals, so double dumbass on me). 
 
 #### I should have just stayed in the street, bikes shouldn't be on sidewalks.
 
