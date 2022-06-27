@@ -29,7 +29,9 @@ Also, [Amazon](https://amazon.com) sells [self adhering wound wrap (40 count of 
 ___
 
 ## ALWAYS WEAR A HELMET
+
 Glad I was, and that my helmet had a basic face guard on it. My head definitely hit the sidewalk and I got a bloody nose. Could have been wayyyy worse. 
+
 #### Plus wear wrist pads and knee pads if you're smart.
 
 ___
@@ -37,3 +39,12 @@ ___
 ## You only get one body. Take care of it so you can continue to enjoy eBiking for years to come.
 
 # Again, jumping curbs at max speed, for any reason, is DUMB AS HELL. Don't do it!
+
+___ 
+# Bonus: 
+
+## Helmet cam video of me being a dumbass (and ignoring crosswalk signals, so double dumbass on me). 
+
+#### I should have just stayed in the street.
+
+https://user-images.githubusercontent.com/52809959/175843883-d605ddae-8434-486e-bf5b-ddcd00c25037.mov
