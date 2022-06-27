@@ -28,7 +28,7 @@ ___
 - Front wheel is off-center of hub. Needs manually adjusted (and bearings packed/re-greased prior to assembly)
 - No way to purchase compatible batteries from seller. Have to either wire a 2nd battery in parallel with the existing, or completely replace the existing battery. THE SELLER DOES NOT SELL EXTRA BATTERIES AND NEITHER DOES THE BATTERY MANUFACTURER. The battery on this TotGuard Bike is completely proprietary.
 - No name controller. Can only find minimal company information, only in Chinese on sites without SSL certificates. Wiring scheme for posted anywhere controller public online.
-- No name motor. Can only find minimal company information online, only in Chinese on sites without SSL certificates. Wiring schema or actual specs of hub motor not posted anywhere public online.
+- No name motor. Can only find minimal company information online, only in Chinese on sites. Wiring schema or actual specs of hub motor not posted anywhere public online.
 - Cant un-limit speed above 19.8mph. No software hacks possible, can't move the speed sensor, would require a full controller + motor + lcd upgrade to remove current speed limit, making bike just an expensive frame at that point (rather spend more on a nicer cargo bike or long tail frame if going that route)
 
 ___
